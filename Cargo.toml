@@ -1,0 +1,13 @@
+[package]
+name = "visual-basic-rs"
+version = "0.1.0"
+authors = ["savi2w"]
+edition = "2018"
+
+[lib]
+name = "vbrs"
+crate-type = ["cdylib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
